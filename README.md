@@ -15,3 +15,6 @@ http://checkip.amazonaws.com/
 
 Big Data Solutions:
 https://myan-presentations.s3.amazonaws.com/building-your-first-big-data-application-2016/steps.txt?AWSAccessKeyId=AKIAJTZAPOMKGC5CJU3A&Expires=1492482426&Signature=ENp81JN08BqTVLhk3c1YWObheq4%3D
+
+s3 URL
+http://aws-test-bucket-kizmet.s3.amazonaws.com/
