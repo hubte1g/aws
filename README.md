@@ -1,6 +1,9 @@
 # aws
 
-CLI setup
+AWS CLI setup
+http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
+
+AMI CLI setup
 http://docs.aws.amazon.com/AWSEC2/latest/CommandLineReference/set-up-ec2-cli-windows.html#tools-download
 
 dir "%EC2_HOME%"
