@@ -18,3 +18,9 @@ https://myan-presentations.s3.amazonaws.com/building-your-first-big-data-applica
 
 s3 URL
 http://aws-test-bucket-kizmet.s3.amazonaws.com/
+
+From AWS summit, very comprehensive for alternatives:
+http://cdn.oreillystatic.com/en/assets/1/event/144/Building%20a%20scalable%20architecture%20for%20processing%20streaming%20data%20on%20AWS%20Presentation.pdf
+
+From LinkedIn's recent post:
+https://engineering.linkedin.com/blog/2016/04/kafka-ecosystem-at-linkedin
